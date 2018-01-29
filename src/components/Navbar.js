@@ -4,7 +4,7 @@ const Navbar = ()=>{
     return(
         <div className='navbar navbar-inverse'>
             <div className='navbar-header'>
-                <a href="#" className='navbar-brand'>FreeCodeCamp</a>
+                <a href="/" className='navbar-brand'>FreeCodeCamp</a>
             </div>
 
         </div>
